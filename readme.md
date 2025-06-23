@@ -11,10 +11,9 @@
 
 TOTEM is a 38 key column-staggered split keyboard running [ZMK](https://zmk.dev/) or [QMK](https://docs.qmk.fm/). It's meant to be used with a SEEED XIAO BLE or RP2040.
 
-
 ![TOTEM layout](/docs/images/TOTEM_layout.svg)
 
-
+![CURRENT LAYOUT](/docs/my_keymap.png)
 
 ## HOW TO USE
 
