@@ -131,7 +131,7 @@ label= "SYM"                               ;
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
                 &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PRCNT       &kp CARET   &kp AMPS    &kp BSLH    &kp SQT     &kp DQT       
-                &GRAVE      &TILDEE     &PIPE       &kp UNDER   &kp C_MUTE  &kp LA(LS(H)) &kp LC(LPAR) &kp LC(RPAR) &kp LA(LS(L)) &trans 
+                &kp GRAVE   &kp TILDE   &kp PIPE    &kp UNDER   &kp C_MUTE  &kp LA(LS(H)) &kp LC(LPAR) &kp LC(RPAR) &kp LA(LS(L)) &trans 
     &trans      &kp LGUI    &kp LALT    &kp LSHFT   &kp LCTRL   &kp C_VOL_UP   &kp C_VOL_DN &trans     &kp C_PRE V &kp C_NEXT   &trans   &trans         
                                         &trans      &gif        &mo ADJ         &trans      &trans    &trans      
                         >;
